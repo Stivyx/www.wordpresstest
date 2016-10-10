@@ -1,0 +1,21 @@
+@import 'settings2';
+
+body {
+  background: $fond;
+  h2 {
+    color: $titre
+  }
+
+  nav{
+
+    ul{
+
+      li{
+
+        a{
+          color: $lien;
+        }
+      }
+    }
+  }
+}

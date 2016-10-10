@@ -1,0 +1,6 @@
+body {
+  background: green; }
+  body h2 {
+    color: blue; }
+  body nav ul li a {
+    color: red; }
